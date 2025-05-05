@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 extends:
-  - https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook.yml
+  - https://raw.githubusercontent.com/eds-book/edsbook-config-netlify/main/edsbook.yml
 project:
   id: 95199651-9e81-4cae-a3a7-66398a9a5f62
   title: Livestock detection using DeepForest (Jupyter Notebook) published in the Environmental Data Science book
