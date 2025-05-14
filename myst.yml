@@ -96,3 +96,4 @@ site:
   template: book-theme
   options:
     hide_toc: true
+    hide_title_block: true
