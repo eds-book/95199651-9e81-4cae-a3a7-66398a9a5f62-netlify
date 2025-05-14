@@ -77,7 +77,7 @@ project:
   date: 2024-12-05
   toc:
     - tile: Home
-      file: gallery.md
+      file: index.md
     - file: notebook.ipynb
   exports:
     - format: pdf
@@ -94,3 +94,5 @@ project:
 
 site:
   template: book-theme
+  options:
+    hide_toc: true
