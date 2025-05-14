@@ -6,7 +6,7 @@ project:
   id: 95199651-9e81-4cae-a3a7-66398a9a5f62
   title: Livestock detection using DeepForest (Jupyter Notebook) published in the Environmental Data Science book
   subtitle: Livestock detection (DeepForest)
-  short_title: Home
+  short_title: Return to Gallery
   abstract: Notebook developed to demonstrate how to fine-tune a livestock detection model using the DeepForest package.
   authors:
     - id: cappel
@@ -77,7 +77,7 @@ project:
   date: 2024-12-05
   toc:
     - tile: Home
-      file: index.md
+      file: gallery.md
     - file: notebook.ipynb
   exports:
     - format: pdf
